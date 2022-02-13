@@ -1,0 +1,6 @@
+- TYPES
+    int = 10;
+    double = 10.00;
+    num = int | doubles; => It lets boths.
+
+    
