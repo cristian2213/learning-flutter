@@ -4,3 +4,15 @@
     num = int | doubles; => It lets boths.
 
     
+- Const
+    - Value must be known at compile-time, const birthday  = "2008/12/25"
+    - Can't be changed after initialized.
+
+- Final
+    - Value must be known at run-time, final birthday = getBirthDateFromDB()
+    - Can't be changed after initialized.
+
+
+- Delete "Null Safety" (?)
+    - String? myVariable = 'data';
+    myVariable = null;
